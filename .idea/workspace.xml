@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ccc2370-486d-43c5-a5c6-9367beaff16b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/CommontElementsOfTowArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/ExtractDuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/First10EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/First10OddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/ListOfMultiplyBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/MaxAndMinNumberFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/MergeUnSortedArrayWithOutDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/MergeUnSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/ReverseIntegerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/SecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/SeparateOddAndEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/SortReverseOrderDecimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/SumAndAverageOfAllNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/SumOfAllDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/SumOfFirstTenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/NumberQuestions/ThreemaxThreeMinValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/CheckStringsAreAnagramsOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/DuplicateCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/FindFrequencyOfEachElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/FirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/FirstRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/GetLastElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/JoinTheStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/RemoveDuplicateElementsfromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/ReverseEarchWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/SortAccordingtoStringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/StartWithANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/findMoreRepeatingWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/StringQuestions/findfrequencyofeachcharacterinastring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2iZIMRcyz89wCFJCv8t9QG7CabW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.CheckStringsAreAnagramsOrNot.executor": "Run",
+    "Application.CommontElementsOfTowArray.executor": "Run",
+    "Application.DuplicateCharInString.executor": "Run",
+    "Application.ExtractDuplicateElements.executor": "Run",
+    "Application.FindFrequencyOfEachElementInAnArray.executor": "Run",
+    "Application.First10EvenNumbers.executor": "Run",
+    "Application.First10OddNumber.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.FirstRepeatingCharacter.executor": "Run",
+    "Application.GetLastElement.executor": "Run",
+    "Application.JoinTheStrings.executor": "Run",
+    "Application.ListOfMultiplyBy5.executor": "Run",
+    "Application.MaxAndMinNumberFromList.executor": "Run",
+    "Application.MergeUnSortedArrayWithOutDuplicate.executor": "Run",
+    "Application.MergeUnSortedArrays.executor": "Run",
+    "Application.RemoveDuplicateElementsfromList.executor": "Run",
+    "Application.ReverseEarchWord.executor": "Run",
+    "Application.ReverseIntegerArray.executor": "Run",
+    "Application.SecondLargestNumber.executor": "Run",
+    "Application.SeparateOddAndEven.executor": "Run",
+    "Application.SortAccordingtoStringLength.executor": "Run",
+    "Application.SortReverseOrderDecimals.executor": "Run",
+    "Application.StartWithANumber.executor": "Run",
+    "Application.SumAndAverageOfAllNumber.executor": "Run",
+    "Application.SumOfAllDigits.executor": "Run",
+    "Application.SumOfFirstTenNumbers.executor": "Run",
+    "Application.ThreemaxThreeMinValue.executor": "Run",
+    "Application.findMoreRepeatingWord.executor": "Run",
+    "Application.findfrequencyofeachcharacterinastring.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.19655173"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.First10OddNumber">
+    <configuration name="ExtractDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.ExtractDuplicateElements" />
+      <module name="Core-Java-Programm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.StreamAPI.NumberQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First10EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.First10EvenNumbers" />
+      <module name="Core-Java-Programm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.StreamAPI.NumberQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First10OddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.First10OddNumber" />
+      <module name="Core-Java-Programm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.StreamAPI.NumberQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.ReverseIntegerArray" />
+      <module name="Core-Java-Programm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.StreamAPI.NumberQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfFirstTenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.SumOfFirstTenNumbers" />
+      <module name="Core-Java-Programm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.StreamAPI.NumberQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.First10OddNumber" />
+        <item itemvalue="Application.ExtractDuplicateElements" />
+        <item itemvalue="Application.First10EvenNumbers" />
+        <item itemvalue="Application.ReverseIntegerArray" />
+        <item itemvalue="Application.SumOfFirstTenNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ccc2370-486d-43c5-a5c6-9367beaff16b" name="Changes" comment="" />
+      <created>1719691625006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719691625006</updated>
+    </task>
+    <servers />
+  </component>
+</project>
