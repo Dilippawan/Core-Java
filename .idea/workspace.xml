@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ccc2370-486d-43c5-a5c6-9367beaff16b" name="Changes" comment="I am Testing Gitlab-ci.yml file." />
+    <list default="true" id="5ccc2370-486d-43c5-a5c6-9367beaff16b" name="Changes" comment="I am Testing Gitlab-ci.yml file.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/EmployeeData/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamAPI/EmployeeData/mainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,19 +67,22 @@
     "Application.ThreemaxThreeMinValue.executor": "Run",
     "Application.findMoreRepeatingWord.executor": "Run",
     "Application.findfrequencyofeachcharacterinastring.executor": "Run",
+    "Application.mainClass.executor": "Run",
+    "JUnit.AppTest.testApp.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DilipPawanKumar/Downloads/demo (1)/demo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.19655173",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.First10OddNumber">
+  <component name="RunManager" selected="Application.mainClass">
     <configuration name="ExtractDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.ExtractDuplicateElements" />
       <module name="Core-Java-Programm" />
@@ -114,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.ReverseIntegerArray" />
+    <configuration name="mainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.EmployeeData.mainClass" />
       <module name="Core-Java-Programm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StreamAPI.NumberQuestions.*" />
+          <option name="PATTERN" value="org.example.StreamAPI.EmployeeData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,26 +135,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfFirstTenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPI.NumberQuestions.SumOfFirstTenNumbers" />
+    <configuration name="AppTest.testApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Core-Java-Programm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StreamAPI.NumberQuestions.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="testApp" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mainClass" />
+        <item itemvalue="JUnit.AppTest.testApp" />
         <item itemvalue="Application.First10OddNumber" />
         <item itemvalue="Application.ExtractDuplicateElements" />
         <item itemvalue="Application.First10EvenNumbers" />
-        <item itemvalue="Application.ReverseIntegerArray" />
-        <item itemvalue="Application.SumOfFirstTenNumbers" />
       </list>
     </recent_temporary>
   </component>
